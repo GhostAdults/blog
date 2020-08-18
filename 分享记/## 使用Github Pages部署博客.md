@@ -19,7 +19,7 @@ Author：[蝉时雨](https://github.com/chanshiyucx)<br>
 > *网上针对`Github Pages`搭建博客的文章太多了<s>(一大堆)</s>，故基础性的东东不细说。这里针对一些比较容易出错的地方 进行一下讲解(博主已经提前踩过坑了讷)*
 
 ### 技术栈 ###
-[`Vue`](https://vuejs.org/v2/guide/) + [`Github Issues`](https://developer.github.com/v3/issues/) + [`Github Issues`](https://developer.github.com/v3/issues/) + [`Github API`](https://developer.github.com/v3/) + [`Gitalk`](https://github.com/gitalk)
+[`Vue`](https://vuejs.org/v2/guide/) + [`Github Issues`](https://developer.github.com/v3/issues/) + [`Github API`](https://developer.github.com/v3/) + [`Gitalk`](https://github.com/gitalk) + [`LeanCloud`](https://console.leancloud.app/)
 ### 前置需求说明 ###
 此博客(Aurora)采用的前端技术基于 [Vue](https://vuejs.org/v2/guide/)，文章存储采用 [Github Issues](https://developer.github.com/v3/issues/)及[Github API](https://developer.github.com/v3/)，数据库采用[LeanCloud](https://console.leancloud.app/)(第三方数据库，用来存储访问热度)。在食用之前，首先需要装一下环境：<br>
 <font size=1px>怎么又要装环境~!好烦！.jpg 不过大家放心这个不复杂，知道了步骤好。</font>
